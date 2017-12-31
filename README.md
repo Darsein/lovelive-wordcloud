@@ -31,6 +31,6 @@ word_cloud.py の実行例は以下の通りです。
 
 僕たちはひとつの光のワードクラウドは
 
-  python word_cloud_bokuhika.py
+    python word_cloud_bokuhika.py
 
 すればできます。
